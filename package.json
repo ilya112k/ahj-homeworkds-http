@@ -17,9 +17,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArtKonX/ahj-homeworks-http-help-desk.git"
+    "url": "git+https://github.com/ilya112k/ahj-homeworkds-http.git"
   },
-  "author": "ArtKonX",
+  "author": "ilya112k",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ArtKonX/ahj-homeworks-http-help-desk/issues"
