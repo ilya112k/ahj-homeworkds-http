@@ -1,0 +1,75 @@
+.add-ticket-btn {
+    display: flex;
+    justify-content: end;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 1rem;
+    color: gray;
+    padding: 11px 18px;
+    border-radius: 13px;
+}
+
+.btn-edit {
+    width: 25px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1.5px solid gray;
+    background-color: white;
+    padding: 18px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+}
+
+.btn-remove {
+    padding: 18px;
+    background-color: white;
+    border-radius: 50%;
+    color: gray;
+    border: 1.5px solid gray;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    font-size: 1.3rem;
+}
+
+.ticket-close-btn {
+    display: flex;
+    justify-content: end;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 1rem;
+    color: gray;
+    padding: 11px 18px;
+    border-radius: 13px;
+}
+
+.ticket-del-btn {
+    display: flex;
+    justify-content: end;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 1rem;
+    color: gray;
+    padding: 11px 18px;
+    border-radius: 13px;
+    margin-left: 15px;
+}
+
+.ticket-ok-btn {
+    display: flex;
+    justify-content: end;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 1rem;
+    color: gray;
+    padding: 11px 18px;
+    border-radius: 13px;
+    margin-left: 15px;
+}

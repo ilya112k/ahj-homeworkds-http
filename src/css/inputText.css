@@ -1,0 +1,12 @@
+.input-short-description {
+    padding: 9px;
+    box-sizing: border-box;
+    border: 1.5px solid gray;
+    font-size: 1.1rem;
+    color: gray;
+    margin-bottom: 10px;
+}
+
+.input-short-description:focus {
+    outline: none;
+}

@@ -1,0 +1,22 @@
+.textarea-description {
+    padding: 9px;
+    box-sizing: border-box;
+    border: 1.5px solid gray;
+    font-size: 1.1rem;
+    color: gray;
+    margin-bottom: 10px;
+    resize: none;
+}
+
+.textarea-description:focus {
+    outline: none;
+}
+
+.textarea-description {
+    display: flex;
+    flex-direction: column;
+}
+
+.actions-description {
+    display: flex;
+}

@@ -1,0 +1,20 @@
+.ticket-text {
+    text-align: start;
+    width: 100%;
+    margin-top: 30px;
+    margin-left: 127px;
+    font-size: 1.3rem;
+    color: gray;
+    font-weight: normal;
+    margin-right: 10px;
+}
+
+.del-ticket-text {
+    margin: 0;
+    margin-bottom: 29px;
+    font-size: 1.2rem;
+    font-weight: normal;
+    color: gray;
+    text-align: left;
+    max-width: 400px;
+}

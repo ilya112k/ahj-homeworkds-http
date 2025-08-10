@@ -1,0 +1,29 @@
+.title-ticket {
+    font-size: 1.3rem;
+    color: gray;
+    font-weight: normal;
+    margin-right: 10px;
+    margin: 0;
+}
+
+.ticket-text_hidden {
+    display: none;
+}
+
+.title-ticket-form {
+    margin: 0;
+    margin-bottom: 29px;
+    font-size: 1.1rem;
+    font-weight: normal;
+    color: gray;
+    text-align: center;
+}
+
+.del-ticket-title {
+    margin: 0;
+    margin-bottom: 29px;
+    font-size: 1.2rem;
+    font-weight: normal;
+    color: gray;
+    text-align: center;
+}

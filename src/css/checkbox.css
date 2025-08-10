@@ -1,0 +1,19 @@
+.checkbox-ticket {
+    position: absolute;
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    width: 1px;
+}
+
+.checkbox-ticket:hover {
+    transition: 1s;
+}
+
+.checkbox-ticket:checked+.checkbox-label::before {
+    content: '✓';
+    color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+}

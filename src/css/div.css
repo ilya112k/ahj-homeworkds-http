@@ -1,0 +1,79 @@
+.tickets-container {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    max-width: 1000px;
+    width: 100%;
+}
+
+.tickets-list {
+    width: 100%;
+    margin-top: 35px;
+}
+
+.ticket-container {
+    display: flex;
+    align-items: center;
+}
+
+.ticket-container {
+    width: 100%;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    border-top: 1.5px solid gray;
+    border-left: 1.5px solid gray;
+    border-right: 1.5px solid gray;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ticket-container:last-child {
+    border-bottom: 1.5px solid gray;
+}
+
+.ticket-checkbox-title {
+    display: flex;
+    align-items: center;
+}
+
+.time-actions-ticket {
+    display: flex;
+    align-items: center;
+}
+
+.ticket-actions {
+    display: flex;
+    margin-left: 20px;
+}
+
+.ticket-content-short {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.ticket-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.del-ticket-actions {
+    display: flex;
+    justify-content: end;
+}
+
+.short-description {
+    display: flex;
+    flex-direction: column;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+}
+
+.del-ticket-actions {
+    display: flex;
+    justify-content: end;
+}
