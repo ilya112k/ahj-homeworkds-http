@@ -1,4 +1,4 @@
-![CI](https://github.com/ilya112k/ahj-homeworks-http/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/ilya112k/ahj-homeworkds-http/actions/workflows/web.yml/badge.svg)
 
 [Ссылка на Github Pages](https://ilya112k.github.io/ahj-homeworks-http/)
 
